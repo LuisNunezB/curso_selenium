@@ -52,6 +52,8 @@ public class alertas {
 		alert4.sendKeys("Curso de programación selenium");
 		alert4.dismiss();
 		
+		System.out.println("Hola kevin");
+		
 	}
 
 }
